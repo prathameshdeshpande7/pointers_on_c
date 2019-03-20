@@ -1,1 +1,1 @@
-# pointers_on_c
+# pointers_on_c code
